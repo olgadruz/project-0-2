@@ -12,3 +12,4 @@
 /Users/Druzhkova/Library/Mobile Documents/com~apple~CloudDocs/USF/третий год/cop/Greenville Idol 2/obj/Debug/net8.0/Greenville Idol 2.pdb
 /Users/Druzhkova/Library/Mobile Documents/com~apple~CloudDocs/USF/третий год/cop/Greenville Idol 2/obj/Debug/net8.0/Greenville Idol 2.genruntimeconfig.cache
 /Users/Druzhkova/Library/Mobile Documents/com~apple~CloudDocs/USF/третий год/cop/Greenville Idol 2/obj/Debug/net8.0/ref/Greenville Idol 2.dll
+/Users/Druzhkova/Library/Mobile Documents/com~apple~CloudDocs/USF/третий год/cop/Greenville Idol 2/obj/Debug/net8.0/Greenville Idol 2.sourcelink.json

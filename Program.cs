@@ -23,6 +23,10 @@ class Program
                 string current = Console.ReadLine();
                 string[] split2 = current.Split(" ");
                 int current_year = Convert.ToInt32(split2[0]);
+                Console.WriteLine("Last year's competition had " + previous_year + " contestants, and this year's has " + current_year + " contestants");
+                Console.Write("Revenue expected this year is ");
+                int revenue = current_year * 25;
+                Console.WriteLine(revenue.ToString("C0"));
                 if (previous_year * 2 < current_year)
                 {
                     Console.WriteLine("The competition is more than twice as big this year!");
